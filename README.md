@@ -6,7 +6,7 @@ O arquivo de conexão com o banco de dados esta em App/model/ConnectionFactory.p
 
 Afim de facilitar o roteamento utilizei o componente de rotas do Slim .
 Utilizei php 7.2.2;
-O projeto usuflui da arquitetura REST , orientação a objetos e coxexão PDO no padrão singleton . 
+O projeto usuflui da arquitetura REST , orientação a objetos e conexão PDO no padrão singleton . 
 
 Para rodar o projeto , é necessário rodar o script do banco de dados e em seguida via cmd na pasta raís do ptojeto 'Teste' rodar seguinte comando: php -S localhost:8080 -t.
-feito issoo projeto estará dispnivel no link http://localhost:8080
+feito isso o projeto estará dispnivel no link http://localhost:8080
